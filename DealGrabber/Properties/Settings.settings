@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DealGrabber.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Button1Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Beef</Value>
+    </Setting>
+    <Setting Name="Button2Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Chicken</Value>
+    </Setting>
+    <Setting Name="Button3Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pork</Value>
+    </Setting>
+    <Setting Name="Button4Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Candy</Value>
+    </Setting>
+    <Setting Name="Button5Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vegetable</Value>
+    </Setting>
+    <Setting Name="PostalCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
